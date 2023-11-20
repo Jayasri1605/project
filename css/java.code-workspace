@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../java"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../align.html"
+		},
+		{
+			"path": "../tailwind"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "java"
+	}
+}
